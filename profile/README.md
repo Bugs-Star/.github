@@ -1,7 +1,7 @@
 # ☕️ 카페 앱 행동 분석 시스템(벅스스타)
 
 <div align="center">
-<img src="https://github.com/Bucks-Star/.github/blob/main/profile/profileimgs/main.png" alt="메인" />
+<img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/main.png" alt="메인" />
 </div>
 
 ## 📝 프로젝트 개요
