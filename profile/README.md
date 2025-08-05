@@ -5,7 +5,7 @@
 </div>
 
 ## 📝 프로젝트 개요
-![project_period](https://img.shields.io/badge/Project%20Period-2025--08--04%20~%202025--09--28-FF7F4C)<br>
+![project_period](https://img.shields.io/badge/Project%20Period-2025--08--04%20~%202025--09--08-024d28)<br>
 
 본 프로젝트는 카페 이용 고객을 위한 모바일 주문 시스템으로, 
 
