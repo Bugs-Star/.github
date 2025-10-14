@@ -15,12 +15,13 @@
 
 ## 📦 배포
 
-> 
+### 📱 Web App : https://bugs-star-web.vercel.app/
+  - ID : web@web.web
+  - PW : webweb
 
-테스트 계정
-
-- ID: guest@guest.com
-- PW: guest12
+### 👩‍💻 Admin App : https://bugs-star-admin.vercel.app/
+  - ID : admin@admin.admin
+  - PW : admin
 
 ## 💁🏻 팀원
   - 송용훈(FS)
