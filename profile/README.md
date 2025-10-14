@@ -27,26 +27,41 @@
 
 ## 💁🏻 팀원
   - **송용훈(FS)** : API Server
-    - Auth APIs(web & admin), Business Logic & APIs, Log Data Delivery API, Dashboard Data API
+    - 웹 및 Admin용 인증(Auth) API 설계 및 구현
+    - 백엔드 아키텍처 전반을 설계하고, 데이터 흐름과 API 안정성을 최적화
+    - 주문, 결제, 사용자 행동 데이터 처리 등 핵심 비즈니스 로직과 API 개발
+    - 수집된 사용자 행동 로그 데이터를 Worker로 전달하는 Log Data Delivery API 구현
+    - Admin Dashboard에서 실시간 통계 및 인사이트 제공을 위한 Dashboard Data API 설계 및 구현
   - **노인영(FS)** : Admin Dashboard App
-    - CRUD Implementation (Items, Promotions, Events), Item Reordering Logic(Backend), Data Visualization
+    - Admin Dashboard의 주요 화면(Items, Promotions, Events) 설계 및 프론트엔드 구현
+    - CRUD 기능 전반을 프론트에서 구현하고, 사용자 인터랙션과 상태 관리를 최적화
+    - Items의 순서 변경 및 Promotion 우선순위 로직을 프론트와 백엔드에서 연동하여 구현
+    - 운영자가 데이터를 직관적으로 이해할 수 있도록 통계 및 데이터 시각화 구현
   - **이정관(FS)** : User Web App
-    
-  - **이세준(FS)** : 
+    - 사용자 로그인, 회원가입, 프로파일 관리 기능 설계 및 구현
+    - 전체 User Web App의 UI/UX와 기능 흐름 설계, 사용자 경험 최적화
+    - 상품 목록 조회, 상세 정보 확인, 주문 처리 등 주요 사용자 기능 개발
+    - 사용자의 행동 데이터를 배치 및 실시간 전송을 통해 수집 Data의 소실을 최소화하여 전송하는 기능 구현
+  - **이세준(FS)** : Log Worker, Recommendation Worker
+    - 사용자 행동 로그를 가공, 처리, 저장하여 ClickHouse, Milvus 등 전용 DB에 적재
+    - 실시간 또는 배치 방식으로 로그 데이터를 처리하는 Log Worker 구현
+    - 추천 시스템(Recommendation Worker) 구현, 사용자 행동 데이터 기반으로 맞춤형 추천 제공
+    - 백그라운드 작업(Worker) 설계 및 최적화, 서버 부하를 고려한 안정적 데이터 처리
+    - 데이터 흐름과 Worker 간 연계 로직을 설계하여 전체 시스템 효율성 향상
 
-## 후기
+## ✨ 프로젝트 후기
 <details>
-  <summary>자세한 내용 보기</summary>
+  <summary>송용훈(FS) : "완성은 끝이 아니라 시작이라는 걸 느꼈습니다" </summary>
   <table>
   <tr>
     <td align="center" style="padding-right: 20px;">
-      <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="484" alt="대표 이미지" />
+      <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="150" alt="대표 이미지" />
     </td>
     <td>
       <p>
-        With a background in nursing and occupational health, I bring practical experience to healthcare data analysis—transforming medical data into insights that improve care and decisions.<br /><br />
-        Using Python tools like Pandas, NumPy, and scikit-learn, I build models and pipelines to optimize clinical workflows and visualize results.<br /><br />
-        Passionate about using data to drive smarter, more efficient healthcare.
+        프로젝트를 끝내고 나니, 코드와 기능이 완성된 기쁨보다 아직 배우고 성장할 게 많다는 생각이 더 크게 다가왔습니다.<br />
+        하나를 완성할 때마다 새로운 궁금증과 도전이 생기고, 그 과정에서 배움은 끝나지 않는다는 걸 깨달았습니다.<br /><br />
+        이번 경험을 통해, 완성은 단지 다음 시작을 위한 발판이라는 걸 몸소 느낄 수 있었습니다.
       </p>
     </td>
   </tr>
