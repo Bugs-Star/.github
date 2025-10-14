@@ -111,42 +111,79 @@
 
 ## ✨ 프로젝트 후기
 <details>
-  <summary>송용훈(FS) : "완성은 끝이 아니라 시작이라는 걸 느꼈습니다" </summary>
+  <summary>송용훈(FS) : "완성은 끝이 아니라 시작이라는 걸 느꼈습니다"</summary>
   <table>
-  <tr>
-    <td align="center" style="padding-right: 20px;">
-      <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="150" alt="대표 이미지" />
-    </td>
-    <td>
-      <p>
-        프로젝트를 끝내고 나니, 코드와 기능이 완성된 기쁨보다 아직 배우고 성장할 게 많다는 생각이 더 크게 다가왔습니다.<br />
-        하나를 완성할 때마다 새로운 궁금증과 도전이 생기고, 그 과정에서 배움은 끝나지 않는다는 걸 깨달았습니다.<br /><br />
-        이번 경험을 통해, 완성은 단지 다음 시작을 위한 발판이라는 걸 몸소 느낄 수 있었습니다.
-      </p>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://raw.githubusercontent.com/yonghun16/yonghun16/main/images/profile.jpeg" width="160" height="160" />
+      </td>
+      <td>
+        <p>
+          프로젝트를 끝내고 나니, 코드와 기능이 완성된 기쁨보다 아직 배우고 성장할 게 많다는 생각이 더 크게 다가왔습니다.<br />
+          하나를 완성할 때마다 새로운 궁금증과 도전이 생기고, 그 과정에서 배움은 끝나지 않는다는 걸 깨달았습니다.<br /><br />
+          이번 경험을 통해, 완성은 단지 다음 시작을 위한 발판이라는 걸 몸소 느낄 수 있었습니다.
+        </p>
+      </td>
+    </tr>
+  </table>
 </details>
+
 <details>
-  <summary>노인영(FS) : "I wanted every flow to connect naturally." </summary>
+  <summary>노인영(FS) : "I wanted every flow to connect naturally."</summary>
   <table>
-  <tr>
-    <td align="center" style="padding-right: 20px;">
-      <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="150" alt="대표 이미지" />
-    </td>
-    <td>
-      <p>
-        While developing the Admin Dashboard, I focused not just on building simple CRUD interfaces, but on crafting a “Golden Path” where the user’s flow remains uninterrupted. <br /><br />
-        I connected product and promotion management logic seamlessly across both frontend and backend, implementing authentication and data visualization to create a structure that administrators can intuitively understand and operate. <br />
-        Throughout the process, I realized that what truly matters is not just how well something works, but how well it is experienced. <br /><br />
-        This project became a turning point for me — a reminder to always seek the right balance between functionality and user experience.
-      </p>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://raw.githubusercontent.com/yonghun16/yonghun16/main/images/profile.jpeg" width="160" height="160" />
+      </td>
+      <td>
+        <p>
+          While developing the Admin Dashboard, I focused not just on building simple CRUD interfaces, but on crafting a “Golden Path” where the user’s flow remains uninterrupted.<br /><br />
+          I connected product and promotion management logic seamlessly across both frontend and backend, implementing authentication and data visualization to create a structure that administrators can intuitively understand and operate.<br />
+          Throughout the process, I realized that what truly matters is not just how well something works, but how well it is experienced.<br /><br />
+          This project became a turning point for me — a reminder to always seek the right balance between functionality and user experience.
+        </p>
+      </td>
+    </tr>
+  </table>
 </details>
 
+<details>
+  <summary>이정관(FS) : "기능은 완성이 아니라 경험으로 완성된다."</summary>
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://raw.githubusercontent.com/yonghun16/yonghun16/main/images/profile.jpeg" width="160" height="160" />
+      </td>
+      <td>
+        <p>
+          User Web App을 개발하면서 가장 많이 고민했던 건, 단순히 로그인이나 주문이 ‘된다’가 아니라 사용자가 자연스럽게 느끼는 흐름이었습니다.<br />
+          하나의 화면이 끝나면 다음 행동이 이어지도록, 그리고 데이터가 언제나 정확하게 반응하도록 세심하게 다듬었습니다.<br />
+          특히 실시간 로그 전송과 배치 처리를 안정화하면서, 사용자의 행동이 곧 서비스의 신뢰로 이어진다는 걸 실감했습니다.<br /><br />
+          결국 이번 프로젝트는 “작동하는 기능”보다 “느껴지는 경험”이 얼마나 중요한지를 다시 깨닫게 해준 시간이었습니다.
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
+<details>
+  <summary>이세준(BE) : "보이지 않는 곳에서 흐름을 만든다는 것."</summary>
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://raw.githubusercontent.com/yonghun16/yonghun16/main/images/profile.jpeg" width="160" height="160" />
+      </td>
+      <td>
+        <p>
+          이번 프로젝트에서 저는 사용자 행동 로그를 수집하고, 가공하고, 추천으로 이어지는 데이터의 흐름을 설계했습니다.<br />
+          직접 눈에 보이지 않는 백그라운드 작업이지만, 그 흐름이 안정적으로 이어질 때 서비스 전체가 살아 움직인다는 걸 느꼈습니다.<br />
+          실시간 처리와 배치 작업을 조율하며, 시스템의 ‘속도’보다 더 중요한 건 ‘균형’과 ‘신뢰성’이라는 사실을 배웠습니다.<br /><br />
+          이 경험은 제가 데이터를 다룰 때 단순한 기술 구현을 넘어, 흐름을 설계하는 엔지니어로 성장하는 계기가 되었습니다.
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
 
 ## ⚙️ 기술 스택
