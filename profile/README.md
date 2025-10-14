@@ -26,28 +26,88 @@
   - PW : admin
 
 ## 💁🏻 팀원
-  - **송용훈(FS)** : API Server
-    - 웹 및 Admin용 인증(Auth) API 설계 및 구현
-    - 백엔드 아키텍처 전반을 설계하고, 데이터 흐름과 API 안정성을 최적화
-    - 주문, 결제, 사용자 행동 데이터 처리 등 핵심 비즈니스 로직과 API 개발
-    - 수집된 사용자 행동 로그 데이터를 Worker로 전달하는 Log Data Delivery API 구현
-    - Admin Dashboard에서 실시간 통계 및 인사이트 제공을 위한 Dashboard Data API 설계 및 구현
-  - **노인영(FS)** : Admin Dashboard App
-    - Admin Dashboard의 주요 화면(Items, Promotions, Events) 설계 및 프론트엔드 구현
-    - CRUD 기능 전반을 프론트에서 구현하고, 사용자 인터랙션과 상태 관리를 최적화
-    - Items의 순서 변경 및 Promotion 우선순위 로직을 프론트와 백엔드에서 연동하여 구현
-    - 운영자가 데이터를 직관적으로 이해할 수 있도록 통계 및 데이터 시각화 구현
-  - **이정관(FS)** : User Web App
-    - 사용자 로그인, 회원가입, 프로파일 관리 기능 설계 및 구현
-    - 전체 User Web App의 UI/UX와 기능 흐름 설계, 사용자 경험 최적화
-    - 상품 목록 조회, 상세 정보 확인, 주문 처리 등 주요 사용자 기능 개발
-    - 사용자의 행동 데이터를 배치 및 실시간 전송을 통해 수집 Data의 소실을 최소화하여 전송하는 기능 구현
-  - **이세준(FS)** : Log Worker, Recommendation Worker
-    - 사용자 행동 로그를 가공, 처리, 저장하여 ClickHouse, Milvus 등 전용 DB에 적재
-    - 실시간 또는 배치 방식으로 로그 데이터를 처리하는 Log Worker 구현
-    - 추천 시스템(Recommendation Worker) 구현, 사용자 행동 데이터 기반으로 맞춤형 추천 제공
-    - 백그라운드 작업(Worker) 설계 및 최적화, 서버 부하를 고려한 안정적 데이터 처리
-    - 데이터 흐름과 Worker 간 연계 로직을 설계하여 전체 시스템 효율성 향상
+<table>
+  <thead>
+    <tr>
+      <th style="white-space: nowrap;">프로필&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>이름(포지션) - 작업 내역</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="2" style="vertical-align: top; padding: 10px;">
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic1.png?raw=true" alt="송용훈" style="min-width: 50px; width:60px; height: 60px;" />
+      </td>
+      <td><a href="https://github.com/yonghun16">송용훈</a> (FS - API, UI/UX Design)</td>
+    </tr>
+     <tr>
+      <td colspan="2">Auth API, 백엔드 아키텍처, 주문/결제/행동 데이터 처리, 로그 전달 API, Dashboard 통계 API, UI/UX 구조 설계</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic4.png?raw=true" alt="노인영" style="min-width: 50px; width:60px; height: 60px;" />
+      </td>
+      <td><a href="https://github.com/ines2131/">노인영</a> (FS - Screen, Golden Path & ReOrder Logic)</td>
+    </tr>
+     <tr>
+       <td colspan="2">Admin Dashboard Auth 로직, 상품·등록·수정·삭제, Item/Promotion 순서 로직(FE & BE), Golden Path 구현, 데이터 후처리 및 시각화
+</td>
+     </tr>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic3.png?raw=true" alt="이정관" style="min-width: 50px; width:60px; height: 60px;" />
+      </td>
+      <td><a href="https://github.com/LEEJUNGKWAN1">이정관</a> (FS - Screen, Refresh token-based security)</td>
+    </tr>
+      <tr>
+        <td colspan="2">User Web App Auth 로직(리플레시 토큰 기반 보안 포함), 상품 조회·주문·결제, 사용자 행동 데이터 수집(배치·실시간) 및 전처리</td>
+      </tr>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic5.png?raw=true" alt="이세준" style="min-width: 50px; width:60px; height: 60px;" />
+      </td>
+      <td><a href="https://github.com/hello22433/">이세준</a> (BE - Data processing oversight )</td>
+    </tr>
+      <tr>
+        <td colspan="2">데이터 흐름 설계, Log/Recommendation Worker 구현, 사용자 행동 로그 전처리·후처리(ClickHouse, Milvus), 맞춤형 추천</td>
+      </tr>
+    </tr>
+  </tbody>
+</table>
+
+<!--
+
+- **송용훈(FS)** : API Server
+  - 웹 및 Admin용 인증(Auth) API 설계 및 구현
+  - 백엔드 아키텍처 전반을 설계하고, 데이터 흐름과 API 안정성을 최적화
+  - 주문, 결제, 사용자 행동 데이터 처리 등 핵심 비즈니스 로직과 API 개발
+  - 수집된 사용자 행동 로그 데이터를 Worker로 전달하는 Log Data Delivery API 구현
+  - Admin Dashboard에서 실시간 통계 및 인사이트 제공을 위한 Dashboard Data API 설계 및 구현
+- **노인영(FS)** : Admin Dashboard App
+  - Admin Dashboard의 주요 화면(Items, Promotions, Events) 설계 및 프론트엔드 구현
+  - CRUD 기능 전반을 프론트에서 구현하고, 사용자 인터랙션과 상태 관리를 최적화
+  - Items의 순서 변경 및 Promotion 우선순위 로직을 프론트와 백엔드에서 연동하여 구현
+  - 운영자가 데이터를 직관적으로 이해할 수 있도록 통계 및 데이터 시각화 구현
+- **이정관(FS)** : User Web App
+  - 사용자 로그인, 회원가입, 프로파일 관리 기능 설계 및 구현
+  - 전체 User Web App의 UI/UX와 기능 흐름 설계, 사용자 경험 최적화
+  - 상품 목록 조회, 상세 정보 확인, 주문 처리 등 주요 사용자 기능 개발
+  - 사용자의 행동 데이터를 배치 및 실시간 전송을 통해 수집 Data의 소실을 최소화하여 전송하는 기능 구현
+- **이세준(FS)** : Log Worker, Recommendation Worker
+  - 사용자 행동 로그를 가공, 처리, 저장하여 ClickHouse, Milvus 등 전용 DB에 적재
+  - 실시간 또는 배치 방식으로 로그 데이터를 처리하는 Log Worker 구현
+  - 추천 시스템(Recommendation Worker) 구현, 사용자 행동 데이터 기반으로 맞춤형 추천 제공
+  - 백그라운드 작업(Worker) 설계 및 최적화, 서버 부하를 고려한 안정적 데이터 처리
+  - 데이터 흐름과 Worker 간 연계 로직을 설계하여 전체 시스템 효율성 향상
+-->
 
 ## ✨ 프로젝트 후기
 <details>
