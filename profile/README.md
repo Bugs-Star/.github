@@ -127,6 +127,24 @@
   </tr>
 </table>
 </details>
+<details>
+  <summary>노인영(FS) : "I wanted every flow to connect naturally." </summary>
+  <table>
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="150" alt="대표 이미지" />
+    </td>
+    <td>
+      <p>
+        While developing the Admin Dashboard, I focused not just on building simple CRUD interfaces, but on crafting a “Golden Path” where the user’s flow remains uninterrupted. <br /><br />
+        I connected product and promotion management logic seamlessly across both frontend and backend, implementing authentication and data visualization to create a structure that administrators can intuitively understand and operate. <br />
+        Throughout the process, I realized that what truly matters is not just how well something works, but how well it is experienced. <br /><br />
+        This project became a turning point for me — a reminder to always seek the right balance between functionality and user experience.
+      </p>
+    </td>
+  </tr>
+</table>
+</details>
 
 
 
