@@ -199,6 +199,13 @@
 
 
 ## 🧩 기능 소개
+### 🔑 로그인 및 회원가입
+![로그인_회원가입](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/login.gif?raw=true)
+### 🛍️ 메인 상품 보기 & 장바구니 & 결제
+![메인 상품 보기 결제](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/menu.gif?raw=true)
+### 👀 사용자 로그 수집
+![로그 수집](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/log.gif?raw=true)
+
 
 ## 🔗 바로 가기
 - [Notion](https://www.notion.so/2454a00d5d0580b3a9fbedf3a4cf9085)
