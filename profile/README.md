@@ -15,19 +15,24 @@
 
 ## 📦 배포
 
-### 📱 Web App : https://bugs-star-web.vercel.app/
+### 📱 User Web App
+> https://bugs-star-web.vercel.app/
   - ID : web@web.web
   - PW : webweb
 
-### 👩‍💻 Admin App : https://bugs-star-admin.vercel.app/
+### 👩‍💻 Admin Dashboard App
+> https://bugs-star-admin.vercel.app/
   - ID : admin@admin.admin
   - PW : admin
 
 ## 💁🏻 팀원
-  - 송용훈(FS)
-  - 노인영(FS)
-  - 이정관(FS)
-  - 이세준(FS)
+  - **송용훈(FS)** : API Server
+    - Auth APIs(web & admin), Business Logic & APIs, Log Data Delivery API, Dashboard Data API
+  - **노인영(FS)** : Admin Dashboard App
+    - CRUD Implementation (Items, Promotions, Events), Item Reordering Logic(Backend), Data Visualization
+  - **이정관(FS)** : User Web App
+    
+  - **이세준(FS)** : 
 
 ## ⚙️ 기술 스택
 - **언어** : <!-- TypeScript --><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
