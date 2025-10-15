@@ -136,7 +136,7 @@
   <table>
     <tr>
       <td align="center" width="160">
-        <img src="https://raw.githubusercontent.com/yonghun16/yonghun16/main/images/profile.jpeg" width="160" height="160" />
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/image.png?raw=true" width="160" height="160" />
       </td>
       <td>
         <p>
@@ -155,7 +155,7 @@
   <table>
     <tr>
       <td align="center" width="160">
-        <img src="https://raw.githubusercontent.com/yonghun16/yonghun16/main/images/profile.jpeg" width="160" height="160" />
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/image.png?raw=true" width="160" height="160" />
       </td>
       <td>
         <p>
@@ -174,7 +174,7 @@
   <table>
     <tr>
       <td align="center" width="160">
-        <img src="https://raw.githubusercontent.com/yonghun16/yonghun16/main/images/profile.jpeg" width="160" height="160" />
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/image.png?raw=true" width="160" height="160" />
       </td>
       <td>
         <p>
