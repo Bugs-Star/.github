@@ -77,7 +77,7 @@
       <td><a href="https://github.com/hello22433/">이세준</a> (BE - Data processing oversight )</td>
     </tr>
       <tr>
-        <td colspan="2">데이터 흐름 설계, Log/Recommendation Worker 구현, 사용자 행동 로그 전처리·후처리(ClickHouse, Milvus), 맞춤형 추천</td>
+        <td colspan="2">데이터 흐름 설계, Log/Recommendation Worker 구현, 사용자 행동 로그 전처리·후처리를 통한 통계 생성(ClickHouse, Milvus), 맞춤형 추천 기능</td>
       </tr>
     </tr>
   </tbody>
