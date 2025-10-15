@@ -36,7 +36,7 @@
   <tbody>
     <tr>
         <td rowspan="2" style="vertical-align: top; padding: 10px;">
-        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic1.png?raw=true" alt="송용훈" style="min-width: 50px; width:60px; height: 60px;" />
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/song2.jpg?raw=true" alt="송용훈" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
       <td><a href="https://github.com/yonghun16">송용훈</a> (FS - API, UI/UX Design)</td>
     </tr>
@@ -47,7 +47,7 @@
   <tbody>
     <tr>
       <td rowspan="2" style="vertical-align: top; min-width: 50px;">
-        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic4.png?raw=true" alt="노인영" style="min-width: 50px; width:60px; height: 60px;" />
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/no2.jpg?raw=true" alt="노인영" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
       <td><a href="https://github.com/ines2131/">Inyoung Noh(노인영)</a> (FS - Screen, Golden Path & ReOrder Logic)</td>
     </tr>
@@ -60,7 +60,7 @@
   <tbody>
     <tr>
       <td rowspan="2" style="vertical-align: top; min-width: 50px;">
-        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic3.png?raw=true" alt="이정관" style="min-width: 50px; width:60px; height: 60px;" />
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/lee2.jpg?raw=true" alt="이정관" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
       <td><a href="https://github.com/LEEJUNGKWAN1">이정관</a> (FS - Screen, Refresh token-based security)</td>
     </tr>
@@ -72,7 +72,7 @@
   <tbody>
     <tr>
       <td rowspan="2" style="vertical-align: top; min-width: 50px;">
-        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic5.png?raw=true" alt="이세준" style="min-width: 50px; width:60px; height: 60px;" />
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/jun2.jpg?raw=true" alt="이세준" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
       <td><a href="https://github.com/hello22433/">이세준</a> (BE - Data processing oversight )</td>
     </tr>
