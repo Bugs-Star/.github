@@ -49,7 +49,7 @@
       <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic4.png?raw=true" alt="노인영" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
-      <td><a href="https://github.com/ines2131/">노인영</a> (FS - Screen, Golden Path & ReOrder Logic)</td>
+      <td><a href="https://github.com/ines2131/">Inyoung Noh(노인영)</a> (FS - Screen, Golden Path & ReOrder Logic)</td>
     </tr>
      <tr>
        <td colspan="2">Admin Dashboard Admin auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
@@ -132,7 +132,7 @@
 </details>
 
 <details>
-  <summary>노인영(FS) : "I wanted every flow to connect naturally."</summary>
+  <summary>Inyoung Noh(노인영)(FS) : "I wanted every flow to connect naturally."</summary>
   <table>
     <tr>
       <td align="center" width="160">
