@@ -211,3 +211,7 @@
 
 ## 🔗 바로 가기
 - [Notion](https://www.notion.so/2454a00d5d0580b3a9fbedf3a4cf9085)
+- Architecture Diagram
+- [UI/UX](https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920)
+- [ERD](https://lucid.app/lucidchart/ecc38e76-f593-4c6f-880b-48860d441eaf/edit?invitationId=inv_89628339-73bf-4361-9b41-8c3ae5e751e6&page=8axG5UtdnnNm#)
+- Use Case
