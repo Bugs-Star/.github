@@ -205,7 +205,9 @@
 ![메인 상품 보기 결제](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/menu.gif?raw=true)
 ### 👀 사용자 로그 수집
 ![로그 수집](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/log.gif?raw=true)
-
+### 🛠️ 상품, 프로모션, 이벤트 생성 수정 삭제
+### 🔀 프로모션, 이벤트 순서 변경
+### 📊 집계 자료 확인(매출, 베스트셀러, 사용자 활동, 골든패스 등)
 
 ## 🔗 바로 가기
 - [Notion](https://www.notion.so/2454a00d5d0580b3a9fbedf3a4cf9085)
