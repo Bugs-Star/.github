@@ -211,7 +211,7 @@
 
 ## 🔗 바로 가기
 - [Notion](https://www.notion.so/2454a00d5d0580b3a9fbedf3a4cf9085)
-- Architecture Diagram
+- [Architecture Diagram](https://lucid.app/lucidchart/3571b66e-c9f5-4776-9064-da6a80b5fa9b/edit?page=-ZYIUvEXnYD.&invitationId=inv_7a673c27-3fd6-4633-8b35-97b81c54d301#)
 - [UI/UX](https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920)
 - [ERD](https://lucid.app/lucidchart/ecc38e76-f593-4c6f-880b-48860d441eaf/edit?invitationId=inv_89628339-73bf-4361-9b41-8c3ae5e751e6&page=8axG5UtdnnNm#)
 - Use Case
