@@ -77,7 +77,7 @@
       <td><a href="https://github.com/hello22433/">이세준</a> (BE - Data processing oversight )</td>
     </tr>
       <tr>
-        <td colspan="2"><a href="https://gist.github.com/hello22433/3e7203fdd3031dda51ffd108f7727c43">데이터 흐름 설계</a>, <a href="https://gist.github.com/hello22433/b5f1fda77706a3dbafb19b96e4f50b00">Log/Recommendation Worker 구현</a>, 사용자 행동 로그 전처리·후처리를 통한 통계 생성(ClickHouse, Milvus), <a href="https://gist.github.com/hello22433/7a581e7b27681777961c3bf365583f8f">맞춤형 추천 기능</a></td>
+        <td colspan="2"><a href="https://gist.github.com/hello22433/3e7203fdd3031dda51ffd108f7727c43">데이터 흐름 설계</a>, <a href="https://gist.github.com/hello22433/b5f1fda77706a3dbafb19b96e4f50b00">Log/Recommendation Worker 구현</a>, <a href="https://gist.github.com/hello22433/ebfaead1e77811772e6c12583f029038">사용자 행동 로그 전처리·후처리를 통한 통계 생성(ClickHouse, Milvus)</a>, <a href="https://gist.github.com/hello22433/7a581e7b27681777961c3bf365583f8f">맞춤형 추천 기능</a></td>
       </tr>
     </tr>
   </tbody>
