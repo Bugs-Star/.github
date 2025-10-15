@@ -200,18 +200,73 @@
 
 ## 🧩 기능 소개
 ### 🔑 로그인 및 회원가입
-![로그인_회원가입](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/login.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/login.gif?raw=true" alt="로그인_회원가입" width="500" />
+</p>
+
 ### 🛍️ 메인 상품 보기 & 장바구니 & 결제
-![메인 상품 보기 결제](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/menu.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/menu.gif?raw=true" alt="메인 상품 보기 결제" width="500" />
+</p>
+
 ### 👀 사용자 로그 수집
-![로그 수집](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/log.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/log.gif?raw=true" alt="로그 수집" width="900" />
+</p>
+
 ### 🛠️ 상품, 프로모션, 이벤트 생성 수정 삭제
+
+
 ### 🔀 프로모션, 이벤트 순서 변경
+
 ### 📊 집계 자료 확인(매출, 베스트셀러, 사용자 활동, 골든패스 등)
 
-## 🔗 바로 가기
-- [Notion](https://www.notion.so/2454a00d5d0580b3a9fbedf3a4cf9085)
-- [Architecture Diagram](https://lucid.app/lucidchart/3571b66e-c9f5-4776-9064-da6a80b5fa9b/edit?page=-ZYIUvEXnYD.&invitationId=inv_7a673c27-3fd6-4633-8b35-97b81c54d301#)
-- [UI/UX](https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920)
-- [ERD](https://lucid.app/lucidchart/ecc38e76-f593-4c6f-880b-48860d441eaf/edit?invitationId=inv_89628339-73bf-4361-9b41-8c3ae5e751e6&page=8axG5UtdnnNm#)
-- [Use Case](https://editor.plantuml.com/uml/bLN9JiCm4BtdAqOS41pu0Gw8KbO9n0vdAvus5avSEPEY2l7lZ9SqJjD0oScUUNxpPh5pMfEmr9GwqpWZ80DMpGi2gIpcf4oLPI8dO-6rHXkN4ragjZk0gEOQOSyvOR9OxC5N1lpv_T7H2HnScn8FlIqiW_LDuISyOMxA4Yk94cu8ote4zs1DQPoKCS354YkApetmTrWryPHV1kiPBj6AEGuzbyR8eVMAhIb_Hn3yhmif2E6n4HKfMXt2CRZJMx4JALsLfrpr6CZ7t84emGr9WiGTM5BWW6QZUWc_NyQQ6gbcguv-07X6pQC13sB5tIMEJSMwgWbiMc3-OPhjeU-wvaJuhPchQejnpT1PBwGYDpOpfGSqOQIYj6jLyq1p2jzPRvxzXAS37GonQ6wPg0a1KdDKuSOIzdjpdipZg3jMnw9heaVjTi9d_G_yERUf7s4i4owbRFBsYdNRdj8ajGs05pRkZZh60SzayW-OQBH_w9mstCuIRIkqsoUzRuqmDSqEYOUdfnCMzxtK_uGLF5S8zrQY7O7qNpfu5vGNyABQntDCu1CkZ5qtfjt5iWcDDRnORlnM_ndM17nNTLUmFY2ywlmNMF8r_uNeocY95LygAlnDEcKW_r5-0000)
+## 🔗 개발 자료
+<details>
+  <summary>Notion</summary>
+
+  [Notion 문서 바로가기](https://www.notion.so/2454a00d5d0580b3a9fbedf3a4cf9085)
+  
+  ![Notion](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/notion.png?raw=true)
+
+</details>
+
+<details>
+  <summary>Architecture Diagram</summary>
+
+  [Architecture Diagram 바로가기](https://lucid.app/lucidchart/3571b66e-c9f5-4776-9064-da6a80b5fa9b/edit?page=-ZYIUvEXnYD.#)
+  
+  ![Architecture Diagram](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/diagram.png?raw=true)
+
+</details>
+
+<details>
+  <summary>UI/UX</summary>
+
+  [UI/UX 문서 바로가기](https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920)
+
+  ![UI/UX](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/uiux.png?raw=true)
+  
+</details>
+
+<details>
+  <summary>ERD</summary>
+
+  [ERD 문서 바로가기](https://lucid.app/lucidchart/ecc38e76-f593-4c6f-880b-48860d441eaf/edit?invitationId=inv_89628339-73bf-4361-9b41-8c3ae5e751e6&page=8axG5UtdnnNm#)
+
+  ![ERD](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/erd1.png?raw=true)
+
+  ![ERD](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/erd2.png?raw=true)
+  
+</details>
+
+<details>
+  <summary>Use Case</summary>
+
+  [Use Case 문서 바로가기](https://editor.plantuml.com/uml/bLN9JiCm4BtdAqOS41pu0Gw8KbO9n0vdAvus5avSEPEY2l7lZ9SqJjD0oScUUNxpPh5pMfEmr9GwqpWZ80DMpGi2gIpcf4oLPI8dO-6rHXkN4ragjZk0gEOQOSyvOR9OxC5N1lpv_T7H2HnScn8FlIqiW_LDuISyOMxA4Yk94cu8ote4zs1DQPoKCS354YkApetmTrWryPHV1kiPBj6AEGuzbyR8eVMAhIb_Hn3yhmif2E6n4HKfMXt2CRZJMx4JALsLfrpr6CZ7t84emGr9WiGTM5BWW6QZUWc_NyQQ6gbcguv-07X6pQC13sB5tIMEJSMwgWbiMc3-OPhjeU-wvaJuhPchQejnpT1PBwGYDpOpfGSqOQIYj6jLyq1p2jzPRvxzXAS37GonQ6wPg0a1KdDKuSOIzdjpdipZg3jMnw9heaVjTi9d_G_yERUf7s4i4owbRFBsYdNRdj8ajGs05pRkZZh60SzayW-OQBH_w9mstCuIRIkqsoUzRuqmDSqEYOUdfnCMzxtK_uGLF5S8zrQY7O7qNpfu5vGNyABQntDCu1CkZ5qtfjt5iWcDDRnORlnM_ndM17nNTLUmFY2ywlmNMF8r_uNeocY95LygAlnDEcKW_r5-0000)
+
+  ![Use Case](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/usercase.png?raw=true)
+
+  
+</details>
+
