@@ -52,7 +52,7 @@
       <td><a href="https://github.com/ines2131/">노인영</a> (FS - Screen, Golden Path & ReOrder Logic)</td>
     </tr>
      <tr>
-       <td colspan="2">Admin Dashboard Auth 로직, 상품·등록·수정·삭제, Item/Promotion 순서 로직(FE & BE), Golden Path 구현, 데이터 후처리 및 시각화
+       <td colspan="2">Admin Dashboard Admin auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
 </td>
      </tr>
     </tr>
