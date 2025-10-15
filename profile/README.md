@@ -214,4 +214,4 @@
 - [Architecture Diagram](https://lucid.app/lucidchart/3571b66e-c9f5-4776-9064-da6a80b5fa9b/edit?page=-ZYIUvEXnYD.&invitationId=inv_7a673c27-3fd6-4633-8b35-97b81c54d301#)
 - [UI/UX](https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920)
 - [ERD](https://lucid.app/lucidchart/ecc38e76-f593-4c6f-880b-48860d441eaf/edit?invitationId=inv_89628339-73bf-4361-9b41-8c3ae5e751e6&page=8axG5UtdnnNm#)
-- Use Case
+- [Use Case](https://editor.plantuml.com/uml/bLN9JiCm4BtdAqOS41pu0Gw8KbO9n0vdAvus5avSEPEY2l7lZ9SqJjD0oScUUNxpPh5pMfEmr9GwqpWZ80DMpGi2gIpcf4oLPI8dO-6rHXkN4ragjZk0gEOQOSyvOR9OxC5N1lpv_T7H2HnScn8FlIqiW_LDuISyOMxA4Yk94cu8ote4zs1DQPoKCS354YkApetmTrWryPHV1kiPBj6AEGuzbyR8eVMAhIb_Hn3yhmif2E6n4HKfMXt2CRZJMx4JALsLfrpr6CZ7t84emGr9WiGTM5BWW6QZUWc_NyQQ6gbcguv-07X6pQC13sB5tIMEJSMwgWbiMc3-OPhjeU-wvaJuhPchQejnpT1PBwGYDpOpfGSqOQIYj6jLyq1p2jzPRvxzXAS37GonQ6wPg0a1KdDKuSOIzdjpdipZg3jMnw9heaVjTi9d_G_yERUf7s4i4owbRFBsYdNRdj8ajGs05pRkZZh60SzayW-OQBH_w9mstCuIRIkqsoUzRuqmDSqEYOUdfnCMzxtK_uGLF5S8zrQY7O7qNpfu5vGNyABQntDCu1CkZ5qtfjt5iWcDDRnORlnM_ndM17nNTLUmFY2ywlmNMF8r_uNeocY95LygAlnDEcKW_r5-0000)
