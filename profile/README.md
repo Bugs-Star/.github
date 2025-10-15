@@ -65,7 +65,7 @@
       <td><a href="https://github.com/LEEJUNGKWAN1">이정관</a> (FS - Screen, Refresh token-based security)</td>
     </tr>
       <tr>
-        <td colspan="2">User Web App Auth 로직(리플레시 토큰 기반 보안 포함), 상품 조회·주문·결제, 사용자 행동 데이터 수집(배치·실시간) 및 전처리</td>
+        <td colspan="2">User Web App Auth 로직(<a href="https://gist.github.com/LEEJUNGKWAN1/b193e2406437dc8b47ab1bce89126208">리플레시 토큰 기반 보안 포함</a>), 상품 조회·주문·결제, <a href="https://gist.github.com/LEEJUNGKWAN1/88774395137f4d2a888cb5820e3082ee">상태 관리 최적화</a>, <a href="https://gist.github.com/LEEJUNGKWAN1/0c57fe5905a17431bc57bcbd3b8aa3f9">사용자 행동 데이터 수집(배치·실시간) 및 전처리</a></td>
       </tr>
     </tr>
   </tbody>
