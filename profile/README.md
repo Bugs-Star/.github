@@ -111,7 +111,7 @@
 
 ## ✨ 프로젝트 후기
 <details>
-  <summary>송용훈(FS) : "완성은 끝이 아니라, 더 깊이 들어가는 시작이었다"</summary>
+  <summary>송용훈(FS) : <i><b>"완성은 끝이 아니라, 더 깊이 들어가는 시작이었다"</b></i></summary>
   <table>
     <tr>
       <td align="center" width="160">
@@ -132,7 +132,7 @@
 </details>
 
 <details>
-  <summary>Inyoung Noh(노인영)(FS) : "I wanted every flow to connect naturally."</summary>
+  <summary>Inyoung Noh(노인영)(FS) : <i><b>"I wanted every flow to connect naturally."</b></i></summary>
   <table>
     <tr>
       <td align="center" width="160">
@@ -151,7 +151,7 @@
 </details>
 
 <details>
-  <summary>이정관(FS) : "기능은 완성이 아니라 경험으로 완성된다."</summary>
+  <summary>이정관(FS) : <i><b>"기능은 완성이 아니라 경험으로 완성된다."</b></i></summary>
   <table>
     <tr>
       <td align="center" width="160">
@@ -170,7 +170,7 @@
 </details>
 
 <details>
-  <summary>이세준(BE) : "보이지 않는 곳에서 흐름을 만든다는 것."</summary>
+  <summary>이세준(BE) : <i><b>"보이지 않는 곳에서 흐름을 만든다는 것."</b></i></summary>
   <table>
     <tr>
       <td align="center" width="160">
