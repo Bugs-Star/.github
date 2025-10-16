@@ -52,7 +52,7 @@
       <td><a href="https://github.com/ines2131/">Inyoung Noh(노인영)</a> (FS - Screen, Golden Path & ReOrder Logic)</td>
     </tr>
      <tr>
-       <td colspan="2">Admin Dashboard Admin auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
+       <td colspan="2">Admin Dashboard App auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
 </td>
      </tr>
     </tr>
