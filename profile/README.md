@@ -37,8 +37,8 @@
   <!-- 송용훈 -->
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/song2.jpg?raw=true" alt="송용훈" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 0;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/song2.jpg?raw=true" alt="송용훈" width="60" height="60" style="display:block; margin:0; padding:0; object-fit:cover; border-radius:8px;" />
       </td>
       <td style="padding: 6px;">
         <a href="https://github.com/yonghun16"><b>송용훈</b></a> (FS - API, UI/UX Design)
@@ -56,8 +56,8 @@
   <!-- 노인영 -->
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/no2.jpg?raw=true" alt="노인영" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 0;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/no2.jpg?raw=true" alt="노인영" width="60" height="60" style="display:block; margin:0; padding:0; object-fit:cover; border-radius:8px;" />
       </td>
       <td style="padding: 6px;">
         <a href="https://github.com/ines2131/"><b>Inyoung Noh(노인영)</b></a> (FS - Screen, Golden Path & ReOrder Logic)
@@ -74,8 +74,8 @@
   <!-- 이정관 -->
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/lee2.jpg?raw=true" alt="이정관" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 0;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/lee2.jpg?raw=true" alt="이정관" width="60" height="60" style="display:block; margin:0; padding:0; object-fit:cover; border-radius:8px;" />
       </td>
       <td style="padding: 6px;">
         <a href="https://github.com/LEEJUNGKWAN1"><b>이정관</b></a> (FS - Screen, Refresh token-based security)
@@ -94,8 +94,8 @@
   <!-- 이세준 -->
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/jun2.jpg?raw=true" alt="이세준" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 0;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/jun2.jpg?raw=true" alt="이세준" width="60" height="60" style="display:block; margin:0; padding:0; object-fit:cover; border-radius:8px;" />
       </td>
       <td style="padding: 6px;">
         <a href="https://github.com/hello22433/"><b>이세준</b></a> (BE - Data processing oversight)
@@ -111,6 +111,7 @@
     </tr>
   </tbody>
 </table>
+
 
 <!--
 
