@@ -26,59 +26,88 @@
   - PW : admin
 
 ## 💁🏻 팀원
-<table>
+<table align="center" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th style="white-space: nowrap;">프로필&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th>이름(포지션) - 작업 내역</th>
+      <th nowrap style="white-space: nowrap; text-align: center; padding: 8px;">프로필</th>
+      <th style="text-align: left; padding: 8px;">이름(포지션) - 작업 내역</th>
     </tr>
   </thead>
+
+  <!-- 송용훈 -->
   <tbody>
     <tr>
-        <td rowspan="2" style="vertical-align: top; padding: 10px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/song2.jpg?raw=true" alt="송용훈" style="min-width: 50px; width:60px; height: 60px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/song2.jpg?raw=true" alt="송용훈" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
       </td>
-      <td><a href="https://github.com/yonghun16">송용훈</a> (FS - API, UI/UX Design)</td>
+      <td style="padding: 6px;">
+        <a href="https://github.com/yonghun16"><b>송용훈</b></a> (FS - API, UI/UX Design)
+      </td>
     </tr>
-     <tr>
-      <td colspan="2"><a href="https://gist.github.com/yonghun16/e9f102069f4277213db696e6f77eaf74">백엔드 아키텍처</a>, Auth/주문/결제 비지니스 로직 API, 로그 전달 API, Dashboard 통계 API, <a href="https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920">UI/UX 구조 설계</a></td>
+    <tr>
+      <td style="padding: 6px;">
+        <a href="https://gist.github.com/yonghun16/e9f102069f4277213db696e6f77eaf74">백엔드 아키텍처</a>,
+        Auth/주문/결제 비지니스 로직 API, 로그 전달 API, Dashboard 통계 API,
+        <a href="https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920">UI/UX 구조 설계</a>
+      </td>
     </tr>
   </tbody>
+
+  <!-- 노인영 -->
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/no2.jpg?raw=true" alt="노인영" style="min-width: 50px; width:60px; height: 60px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/no2.jpg?raw=true" alt="노인영" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
       </td>
-      <td><a href="https://github.com/ines2131/">Inyoung Noh(노인영)</a> (FS - Screen, Golden Path & ReOrder Logic)</td>
+      <td style="padding: 6px;">
+        <a href="https://github.com/ines2131/"><b>Inyoung Noh(노인영)</b></a> (FS - Screen, Golden Path & ReOrder Logic)
+      </td>
     </tr>
-     <tr>
-       <td colspan="2">Admin Dashboard App auth, product CRUD, item/promotion ordering, Golden Path, and data preprocessing & visualization
-</td>
-     </tr>
+    <tr>
+      <td style="padding: 6px;">
+        Admin Dashboard App auth, product CRUD, item/promotion ordering, Golden Path,
+        and data preprocessing & visualization
+      </td>
     </tr>
   </tbody>
+
+  <!-- 이정관 -->
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/lee2.jpg?raw=true" alt="이정관" style="min-width: 50px; width:60px; height: 60px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/lee2.jpg?raw=true" alt="이정관" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
       </td>
-      <td><a href="https://github.com/LEEJUNGKWAN1">이정관</a> (FS - Screen, Refresh token-based security)</td>
+      <td style="padding: 6px;">
+        <a href="https://github.com/LEEJUNGKWAN1"><b>이정관</b></a> (FS - Screen, Refresh token-based security)
+      </td>
     </tr>
-      <tr>
-        <td colspan="2">User Web App Auth 로직(<a href="https://gist.github.com/LEEJUNGKWAN1/b193e2406437dc8b47ab1bce89126208">리플레시 토큰 기반 보안 포함</a>), 상품 조회·주문·결제, <a href="https://gist.github.com/LEEJUNGKWAN1/88774395137f4d2a888cb5820e3082ee">상태 관리 최적화</a>, <a href="https://gist.github.com/LEEJUNGKWAN1/beb9a46ec23d22e5d4a97a3031a4f51e">사용자 행동 데이터 수집(배치·실시간) 및 전처리</a></td>
-      </tr>
+    <tr>
+      <td style="padding: 6px;">
+        User Web App Auth 로직 (<a href="https://gist.github.com/LEEJUNGKWAN1/b193e2406437dc8b47ab1bce89126208">리플레시 토큰 기반 보안</a>),
+        상품 조회·주문·결제,
+        <a href="https://gist.github.com/LEEJUNGKWAN1/88774395137f4d2a888cb5820e3082ee">상태 관리 최적화</a>,
+        <a href="https://gist.github.com/LEEJUNGKWAN1/beb9a46ec23d22e5d4a97a3031a4f51e">사용자 행동 데이터 수집</a>
+      </td>
     </tr>
   </tbody>
+
+  <!-- 이세준 -->
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
-        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/jun2.jpg?raw=true" alt="이세준" style="min-width: 50px; width:60px; height: 60px;" />
+      <td rowspan="2" style="vertical-align: top; width: 60px; min-width: 60px; max-width: 60px; text-align: center; padding: 6px;">
+        <img src="https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/jun2.jpg?raw=true" alt="이세준" width="60" height="60" style="display:block; margin:auto; object-fit:cover; border-radius:8px;" />
       </td>
-      <td><a href="https://github.com/hello22433/">이세준</a> (BE - Data processing oversight )</td>
+      <td style="padding: 6px;">
+        <a href="https://github.com/hello22433/"><b>이세준</b></a> (BE - Data processing oversight)
+      </td>
     </tr>
-      <tr>
-        <td colspan="2"><a href="https://gist.github.com/hello22433/3e7203fdd3031dda51ffd108f7727c43">데이터 흐름 설계</a>, <a href="https://gist.github.com/hello22433/b5f1fda77706a3dbafb19b96e4f50b00">Log/Recommendation Worker 구현</a>, <a href="https://gist.github.com/hello22433/ebfaead1e77811772e6c12583f029038">사용자 행동 로그 전처리·후처리를 통한 통계 생성(ClickHouse)</a>, <a href="https://gist.github.com/hello22433/7a581e7b27681777961c3bf365583f8f">맞춤형 추천 기능(Milvus)</a></td>
-      </tr>
+    <tr>
+      <td style="padding: 6px;">
+        <a href="https://gist.github.com/hello22433/3e7203fdd3031dda51ffd108f7727c43">데이터 흐름 설계</a>,
+        <a href="https://gist.github.com/hello22433/b5f1fda77706a3dbafb19b96e4f50b00">Log/Recommendation Worker 구현</a>,
+        <a href="https://gist.github.com/hello22433/ebfaead1e77811772e6c12583f029038">통계 생성(ClickHouse)</a>,
+        <a href="https://gist.github.com/hello22433/7a581e7b27681777961c3bf365583f8f">맞춤형 추천 기능(Milvus)</a>
+      </td>
     </tr>
   </tbody>
 </table>
