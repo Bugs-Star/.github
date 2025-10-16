@@ -41,7 +41,7 @@
       <td><a href="https://github.com/yonghun16">송용훈</a> (FS - API, UI/UX Design)</td>
     </tr>
      <tr>
-      <td colspan="2"><a href="https://gist.github.com/yonghun16/e9f102069f4277213db696e6f77eaf74">백엔드 아키텍처</a>, Auth API, 주문/결제/행동 데이터 처리, 로그 전달 API, Dashboard 통계 API, <a href="https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920">UI/UX 구조 설계></a></td>
+      <td colspan="2"><a href="https://gist.github.com/yonghun16/e9f102069f4277213db696e6f77eaf74">백엔드 아키텍처</a>, Auth API, 주문/결제/행동 데이터 처리, 로그 전달 API, Dashboard 통계 API, <a href="https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920">UI/UX 구조 설계</a></td>
     </tr>
   </tbody>
   <tbody>
