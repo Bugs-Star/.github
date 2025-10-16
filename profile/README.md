@@ -245,7 +245,7 @@
 
   [UI/UX 문서 바로가기](https://app.visily.ai/projects/d4b06ddb-7f9c-4c37-aac6-77146746ca1e/boards/2092920)
 
-  ![UI/UX](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/uiux.png?raw=true)
+  ![UI/UX](https://github.com/Bugs-Star/.github/blob/main/profile/profileimgs/uiux2.png?raw=true)
   
 </details>
 
